@@ -1,5 +1,8 @@
 _repo: Tales-of-the-Trail-Short-Stories-of-Western-Life_58568
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58568-h/images/cover.jpg
 creator:
   author:
     agent_name: Inman, Henry
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '1850'
     url: http://www.gutenberg.org/2009/agents/1850
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58568#Tales-of-the-Trail-Short-Stories-of-Western-Life
 gutenberg_issued: '2018-12-30'
 gutenberg_type: Text
 identifiers:
